@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dynamicload.app.home</string>
+    <string name="hello">Hello World from app.home!</string>
+    <string name="go_detail">Open app.detail</string>
+    <string name="check_upgrade">Check upgrade</string>
+    <string name="go_sub_detail">Open detail/sub</string>
+</resources>
